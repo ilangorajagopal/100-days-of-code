@@ -23,3 +23,11 @@
 **Thoughts**: Decent progress today. Hoped to finish filtering end to end but it's getting late. Hoping to finish a lot over the weekend.
 
 **Link(s) to work**: [https://mltube.herokuapp.com/](https://mltube.herokuapp.com/)
+
+### Day 4: July 28, 2018
+
+**Today's Progress**: Filtering videos by tags was static, until now. Finished all the interactions related to filtering by tags on the front-end.
+
+**Thoughts**: Filtering videos on the API side was a bit tricky. Figuring out the Mongoose query was harder that I thought.
+
+**Link(s) to work**: [https://mltube.herokuapp.com/](https://mltube.herokuapp.com/)
