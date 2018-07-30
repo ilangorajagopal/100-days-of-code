@@ -32,10 +32,18 @@
 
 **Link(s) to work**: [https://mltube.herokuapp.com/](https://mltube.herokuapp.com/)
 
-### Day 4: July 29, 2018
+### Day 5: July 29, 2018
 
 **Today's Progress**: Setup a simple landing page with a contact form to capture sign-ups.
 
 **Thoughts**: I've been reading Traction. Haven't started any marketing activity so decided to finish the landing page.
+
+**Link(s) to work**: [https://mltube.video/](https://mltube.video/)
+
+### Day 6: July 30, 2018
+
+**Today's Progress**: Setup Google Analytics and MailChimp and some updates to the landing page.
+
+**Thoughts**: Could've gotten a bit more work done. Hoped to finish setting up Mailchimp for a Welcome Email. Need to setup an email ID for the site.
 
 **Link(s) to work**: [https://mltube.video/](https://mltube.video/)
