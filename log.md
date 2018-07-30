@@ -31,3 +31,11 @@
 **Thoughts**: Filtering videos on the API side was a bit tricky. Figuring out the Mongoose query was harder that I thought.
 
 **Link(s) to work**: [https://mltube.herokuapp.com/](https://mltube.herokuapp.com/)
+
+### Day 4: July 29, 2018
+
+**Today's Progress**: Setup a simple landing page with a contact form to capture sign-ups.
+
+**Thoughts**: I've been reading Traction. Haven't started any marketing activity so decided to finish the landing page.
+
+**Link(s) to work**: [https://mltube.video/](https://mltube.video/)
